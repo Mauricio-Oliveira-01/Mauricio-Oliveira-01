@@ -18,6 +18,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Mauricio-Oliveira-01/Mauricio-Oliveira-01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mauricio-oliveira-01/mauricio-oliveira-01/blob/output/github-contribution-grid-snake.svg)
   
 </div>
